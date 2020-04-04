@@ -1,6 +1,6 @@
-# simpleblognewapp
+# simpleblognewapp final
 
-A new Flutter project.
+Taught during the live session.
 
 ## Getting Started
 
